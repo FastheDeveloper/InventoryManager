@@ -1,0 +1,1302 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InventoryScreen Screenshot Inventory Home 1`] = `
+<View>
+  <View
+    style={
+      {
+        "marginBottom": 150,
+      }
+    }
+  >
+    <RCTScrollView
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={[]}
+      viewabilityConfigCallbackPairs={[]}
+    >
+      <View />
+    </RCTScrollView>
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "justifyContent": "space-evenly",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 50,
+              },
+              undefined,
+              {
+                "fontFamily": "ionicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <Text>
+          Add New item
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "black",
+                "fontSize": 50,
+              },
+              undefined,
+              {
+                "fontFamily": "evilicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <Text>
+          Edit
+        </Text>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            [
+              {
+                "color": "red",
+                "fontSize": 40,
+              },
+              undefined,
+              {
+                "fontFamily": "anticon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              {},
+            ]
+          }
+        >
+          
+        </Text>
+        <Text>
+          Log out
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Screenshot AddItems 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      },
+      {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#B9DCA8",
+        "borderBottomLeftRadius": 200,
+        "borderBottomRightRadius": 200,
+        "height": 1147.24,
+        "paddingHorizontal": 15,
+        "paddingTop": 50,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        selectable={false}
+        style={
+          [
+            {
+              "color": "black",
+              "fontSize": 28,
+            },
+            undefined,
+            {
+              "fontFamily": "anticon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          {
+            "fontFamily": "PoppinsBold",
+            "fontSize": 30,
+          }
+        }
+      >
+        Add New Item
+      </Text>
+      <Text>
+                          
+      </Text>
+    </View>
+    <Text
+      style={
+        {
+          "color": "red",
+          "textAlign": "center",
+        }
+      }
+    >
+      Please fill all fields. they are required
+    </Text>
+    <View
+      style={
+        {
+          "marginTop": 20,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Name"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              keyboardType="numeric"
+              onChangeText={[Function]}
+              placeholder="Price"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              keyboardType="numeric"
+              onChangeText={[Function]}
+              placeholder="Total Stock"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Description"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": true,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "borderRadius": 25,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "marginVertical": 10,
+                  "paddingHorizontal": 60,
+                },
+                {
+                  "backgroundColor": "rgba(69, 161, 24, 0.5)",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000",
+                  "fontFamily": "MontSBold",
+                  "fontSize": 24,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              Add item
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "borderRadius": 25,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "marginVertical": 10,
+                  "paddingHorizontal": 60,
+                },
+                {
+                  "backgroundColor": "pink",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000",
+                  "fontFamily": "MontSBold",
+                  "fontSize": 24,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              Edit Inventory
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Screenshot Edit 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      },
+      {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#B9DCA8",
+        "borderBottomLeftRadius": 200,
+        "borderBottomRightRadius": 200,
+        "height": 1147.24,
+        "paddingHorizontal": 15,
+        "paddingTop": 50,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        selectable={false}
+        style={
+          [
+            {
+              "color": "black",
+              "fontSize": 28,
+            },
+            undefined,
+            {
+              "fontFamily": "anticon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            {},
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          {
+            "fontFamily": "PoppinsBold",
+            "fontSize": 30,
+          }
+        }
+      >
+        Edit
+      </Text>
+      <Text>
+                          
+      </Text>
+    </View>
+    <Text
+      style={
+        {
+          "color": "red",
+          "textAlign": "center",
+        }
+      }
+    >
+      Please fill all fields. they are required
+    </Text>
+    <View
+      style={
+        {
+          "marginTop": 20,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Name"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+              value=""
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              keyboardType="numeric"
+              onChangeText={[Function]}
+              placeholder="Price"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              keyboardType="numeric"
+              onChangeText={[Function]}
+              placeholder="Total Stock"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Description"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": true,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "borderRadius": 25,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "marginVertical": 10,
+                  "paddingHorizontal": 60,
+                },
+                {
+                  "backgroundColor": "rgba(69, 161, 24, 0.5)",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000",
+                  "fontFamily": "MontSBold",
+                  "fontSize": 24,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              Edit item by name
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "borderRadius": 25,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "marginVertical": 10,
+                  "paddingHorizontal": 60,
+                },
+                {
+                  "backgroundColor": "pink",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000",
+                  "fontFamily": "MontSBold",
+                  "fontSize": 24,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              Delete by name
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Screenshot Login 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      },
+      {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#B9DCA8",
+        "borderBottomLeftRadius": 200,
+        "borderBottomRightRadius": 200,
+        "height": 1147.24,
+        "paddingHorizontal": 15,
+        "paddingTop": 50,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text>
+                          
+      </Text>
+      <Text
+        style={
+          {
+            "fontFamily": "PoppinsBold",
+            "fontSize": 30,
+          }
+        }
+      >
+        Login
+      </Text>
+      <Text>
+                          
+      </Text>
+    </View>
+    <View
+      style={
+        {
+          "marginTop": 20,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 24,
+                  },
+                  {
+                    "marginLeft": 15,
+                  },
+                  {
+                    "fontFamily": "ionicons",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  {},
+                ]
+              }
+            >
+              
+            </Text>
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Email"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "marginVertical": 25,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(252, 252, 254, 0.5)",
+              "borderColor": "#CED4DA",
+              "borderRadius": 25,
+              "borderWidth": 0.5,
+              "justifyContent": "center",
+              "paddingVertical": 12,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text />
+            <TextInput
+              onChangeText={[Function]}
+              placeholder="Password"
+              style={
+                {
+                  "fontSize": 17,
+                  "marginLeft": 10,
+                  "width": "100%",
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "alignItems": "center",
+                  "borderRadius": 25,
+                  "height": 48,
+                  "justifyContent": "center",
+                  "marginVertical": 10,
+                  "paddingHorizontal": 60,
+                },
+                {
+                  "backgroundColor": "rgba(69, 161, 24, 0.5)",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#000",
+                  "fontFamily": "MontSBold",
+                  "fontSize": 24,
+                  "fontWeight": "700",
+                }
+              }
+            >
+              login
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
