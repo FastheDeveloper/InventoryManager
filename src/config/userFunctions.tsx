@@ -85,7 +85,7 @@ export const editByName = async (name: any, price: number, stock: number, desc: 
       Alert.alert('Success', 'The item has been added to the inventory.');
       navigation.navigate('Main');
     } catch (error) {
-      console.log(error);
+      
       Alert.alert('Error', 'Failed to add the item to the inventory.');
     }
   };

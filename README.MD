@@ -13,7 +13,7 @@ UI/UX: A dummy image of a shoe has been used to beautify the user interface.
 Installation
 Clone the repository.
 Install dependencies by running npm install or yarn.
-Start the app by running npm start or expo start.
+Start the app by running yarn start or expo start.
 To run the app on a simulator type the command 'a' to open in android or scan qr code to open on physical device,
 
 Usage

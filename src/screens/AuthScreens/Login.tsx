@@ -22,7 +22,7 @@ const Login = ({ navigation }: Props) => {
     login(email, passin);
     
   }
-  console.log(authState.isLoggedIn,'Login');
+ 
   useEffect(() => {
 
     if (authState.isLoggedIn===true) {

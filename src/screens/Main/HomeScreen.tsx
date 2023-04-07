@@ -24,7 +24,7 @@ const InventoryScreen = ({ testproduct,navigation }: Props) => {
   const { logout,authState } = useContext(AuthContext);
     const [visible, setvisible] = useState<boolean>(false);
     const [products, setProducts] = useState<Item[]>(testproduct);
-    console.log(authState.isLoggedIn,'Home');
+   
   
     useEffect(() => {
       if (!authState.isLoggedIn) {
