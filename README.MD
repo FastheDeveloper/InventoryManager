@@ -1,3 +1,5 @@
+Find Link to APK in the LinkToAPK file or download the apk straight from here
+
 Inventory Management System React Native App
 Bluemoon Solutions is a software company tasked with working on an inventory management system, this system allows the users to list, add, edit, and delete inventory items. This React Native app utilises the async storage to store, update, retrieve, and delete data.
 
